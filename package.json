@@ -1,10 +1,10 @@
 {
   "name": "flow-diagram",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "./lib/flow-diagram",
-  "description": "A short description of your package",
+  "description": "flow diagram preview and builder",
   "keywords": [],
-  "repository": "https://github.com/atom/flow-diagram",
+  "repository": "https://github.com/sdrubolo/flow-diagram",
   "license": "MIT",
   "activationCommands": {
     "atom-workspace": "flow-diagram:build-right"
