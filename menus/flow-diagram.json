@@ -1,0 +1,49 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "flow-diagram",
+        "submenu" : [
+            {
+              "label": "Diagram Preview",
+              "command": "flow-diagram:build-right"
+            },
+            {
+              "label": "Export To",
+              "submenu": [
+                {
+                  "label": "SVG",
+                  "command": "flow-diagram:export-svg"
+                }
+              ]
+            }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "flow-diagram",
+          "submenu": [
+            {
+              "label": "Diagram Preview",
+              "command": "flow-diagram:build"
+            },
+            {
+              "label": "Export To",
+              "submenu": [
+                {
+                  "label": "SVG",
+                  "command": "flow-diagram:export-svg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

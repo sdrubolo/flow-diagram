@@ -1,0 +1,23 @@
+{
+  "name": "flow-diagram",
+  "version": "0.0.0",
+  "main": "./lib/flow-diagram",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/atom/flow-diagram",
+  "license": "MIT",
+  "activationCommands": {
+    "atom-workspace": "flow-diagram:build-right"
+  },
+  "activationHooks": [
+    "language-flow-diagram:grammar-used",
+    "core:loaded-shell-environment"
+  ],
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.2.0",
+    "resize-observer-polyfill": "^1.5.1"
+  }
+}
