@@ -1,5 +1,15 @@
 # flow-diagram package
 
-A short description of your package.
+This package is thought to allow people describe how entities interact between each other through [language-flow-diagram](https://atom.io/packages/language-flow-diagram) which was inspired by
+[websequencediagrams](https://www.websequencediagrams.com/). Grammar definition is available at [language-flow-diagram](https://atom.io/packages/language-flow-diagram) page.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Features
+
+Currently the package offer
+
+- **language-flow-diagram preview** : this functionality allows user to display the current diagram on a right side panel;
+- **export** : user can export its diagram in the following formats : svg and pdf.
+
+## Example
+
+![A screenshot of your package](./first.gif)
