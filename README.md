@@ -16,4 +16,11 @@ Currently the package offer
 
 After creating a \*.diagram file (diagram extension is mandatory); you can display its preview by selecting it from the menu, like the example below. The path is packages > flow-diagram > Diagram Preview
 
-![A screenshot of your package](./first.gif)
+![how to display preview](./first.gif)
+
+
+**Export to svg**
+
+The flow-diagram package allows multiple export formats like svg.
+
+![how to display preview](./export1.gif)
