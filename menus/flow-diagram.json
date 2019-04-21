@@ -12,8 +12,12 @@
               "label": "Export To",
               "submenu": [
                 {
-                  "label": "SVG",
+                  "label": "Svg",
                   "command": "flow-diagram:export-svg"
+                },
+                {
+                  "label": "Pdf",
+                  "command": "flow-diagram:export-pdf"
                 }
               ]
             }
@@ -36,8 +40,12 @@
               "label": "Export To",
               "submenu": [
                 {
-                  "label": "SVG",
+                  "label": "Svg",
                   "command": "flow-diagram:export-svg"
+                },
+                {
+                  "label": "Pdf",
+                  "command": "flow-diagram:export-pdf"
                 }
               ]
             }
