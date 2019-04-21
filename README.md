@@ -12,4 +12,8 @@ Currently the package offer
 
 ## Example
 
+**Diagram preview**
+
+After creating a \*.diagram file (diagram extension is mandatory); you can display its preview by selecting it from the menu, like the example below. The path is packages > flow-diagram > Diagram Preview
+
 ![A screenshot of your package](./first.gif)
