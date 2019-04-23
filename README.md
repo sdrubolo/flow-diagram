@@ -9,6 +9,12 @@ This package is thought to allow people describe how entities interact between e
 
 Sorry, this is because I need to generate binary file for other platforms. It will come soon anyway.
 
+## Grammar
+
+CF grammar definition can be found below
+
+![grammar](./grammar.png)
+
 ## Features
 
 Currently the package offer
