@@ -13,7 +13,7 @@ Sorry, this is because I need to generate binary file for other platforms. It wi
 
 CF grammar definition can be found below
 
-![grammar](./grammar.png)
+![grammar](https://raw.githubusercontent.com/sdrubolo/project-images/master/grammar.png)
 
 ## Features
 
@@ -28,21 +28,21 @@ Currently the package offer
 
 After creating a \*.diagram file (diagram extension is mandatory); you can display its preview by selecting it from the menu, like the example below. The path is packages > flow-diagram > Diagram Preview
 
-![how to display preview](./first.gif)
+![how to display preview](https://raw.githubusercontent.com/sdrubolo/project-images/master/first.gif)
 
 
 **Export to svg**
 
 The flow-diagram package allows multiple export formats like svg.
 
-![svg export](./export1.gif)
+![svg export](https://raw.githubusercontent.com/sdrubolo/project-images/master/export1.gif)
 
 
 **Export to pdf**
 
 The flow-diagram package also allows to export diagrams in pdf format
 
-![pdf export](./export2.gif)
+![pdf export](https://raw.githubusercontent.com/sdrubolo/project-images/master/export2.gif)
 
 ## What's next
 
