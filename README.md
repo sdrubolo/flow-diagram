@@ -23,6 +23,12 @@ Currently the package offer
 - **language-flow-diagram preview** : this functionality allows user to display the current diagram on a right side panel;
 - **export** : user can export its diagram in the following formats : svg and pdf.
 
+## Export options
+
+- Svg
+- Pdf
+- Png
+
 ## Example
 
 **Diagram preview**

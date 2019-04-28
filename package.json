@@ -1,6 +1,6 @@
 {
   "name": "flow-diagram",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "main": "./lib/flow-diagram",
   "description": "flow diagram preview and builder",
   "keywords": [],
@@ -18,7 +18,9 @@
   },
   "dependencies": {
     "atom-space-pen-views": "^2.2.0",
+    "convert-svg-to-png": "^0.5.0",
     "resize-observer-polyfill": "^1.5.1",
-    "svg-to-pdfkit": "^0.1.7"
+    "svg-to-pdfkit": "^0.1.7",
+    "svg-to-png": "^4.0.0"
   }
 }

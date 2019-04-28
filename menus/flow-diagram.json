@@ -18,6 +18,10 @@
                 {
                   "label": "Pdf",
                   "command": "flow-diagram:export-pdf"
+                },
+                {
+                  "label": "Png",
+                  "command": "flow-diagram:export-png"
                 }
               ]
             }
@@ -46,6 +50,10 @@
                 {
                   "label": "Pdf",
                   "command": "flow-diagram:export-pdf"
+                },
+                {
+                  "label": "Png",
+                  "command": "flow-diagram:export-png"
                 }
               ]
             }
