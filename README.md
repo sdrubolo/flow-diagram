@@ -6,6 +6,7 @@ This package is thought to allow people describe how entities interact between e
 ## Current Supported Platforms
 
 - MacOS
+- Linux
 
 Sorry, this is because I need to generate binary file for other platforms. It will come soon anyway.
 
