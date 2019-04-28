@@ -21,13 +21,7 @@ CF grammar definition can be found below
 Currently the package offer
 
 - **language-flow-diagram preview** : this functionality allows user to display the current diagram on a right side panel;
-- **export** : user can export its diagram in the following formats : svg and pdf.
-
-## Export options
-
-- Svg
-- Pdf
-- Png
+- **export** : user can export its diagram in the following formats : svg,  pdf and png.
 
 ## Example
 
