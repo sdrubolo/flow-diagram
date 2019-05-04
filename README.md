@@ -21,7 +21,7 @@ CF grammar definition can be found below
 Currently the package offer
 
 - **language-flow-diagram preview** : this functionality allows user to display the current diagram on a right side panel;
-- **export** : user can export its diagram in the following formats : svg,  pdf and png.
+- **export** : user can export its diagram in the following formats : svg, pdf and png.
 
 ## Example
 
@@ -44,7 +44,3 @@ The flow-diagram package allows multiple export formats like svg.
 The flow-diagram package also allows to export diagrams in pdf format
 
 ![pdf export](https://raw.githubusercontent.com/sdrubolo/project-images/master/export2.gif)
-
-## What's next
-
-What I really aim to publish is a tool to generate E2E tests basing on flow diagram documentation. In the next releases I would love to give Javascript E2E boilerplates code to allow a quick end to end test to be performed.
